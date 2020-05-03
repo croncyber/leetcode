@@ -1,4 +1,4 @@
-package challenge.week1;
+package challenge.week1.task1;
 
 
 
